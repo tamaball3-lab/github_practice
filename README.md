@@ -1,5 +1,5 @@
 # github_practice
 fetch
 fetch2
-pull --rebase
+pull --rebase2
 
