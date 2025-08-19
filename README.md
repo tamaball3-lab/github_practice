@@ -1,1 +1,1 @@
-# guthub_practice
+# github_practice
